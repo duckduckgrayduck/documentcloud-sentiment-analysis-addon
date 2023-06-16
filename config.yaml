@@ -15,3 +15,5 @@ documents:
   - selected
 # Properties can just be blank if you do not need any input data
 properties: {}
+categories:
+  - ai
