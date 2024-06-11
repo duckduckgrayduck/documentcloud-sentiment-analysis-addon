@@ -1,4 +1,4 @@
-python-documentcloud==3.0.0
+python-documentcloud==4.1.3
 requests
 happytransformer
 nltk
